@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 this is 1sy user
 
+=======
+this is 2nd user
+>>>>>>> 98d9517a853d0189f6fbc50d82cab5492dc6856c
